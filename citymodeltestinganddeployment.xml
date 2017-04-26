@@ -4412,6 +4412,7 @@
 <bldg:BuildingPart>
 <gml:name>2453_P</gml:name>
 <bldg:measuredHeight uom='urn:ogc:def:uom:UCUM::m'>23.210848440104158</bldg:measuredHeight>
+<bldg:function>8000</bldg:function>
 <bldg:lod2Solid>
 <gml:Solid>
 <gml:exterior>
@@ -4919,6 +4920,7 @@
 <bldg:BuildingPart>
 <gml:name>2454_P</gml:name>
 <bldg:measuredHeight uom='urn:ogc:def:uom:UCUM::m'>22.817224373896593</bldg:measuredHeight>
+<bldg:function>1000</bldg:function>
 <bldg:lod2Solid>
 <gml:Solid>
 <gml:exterior>
