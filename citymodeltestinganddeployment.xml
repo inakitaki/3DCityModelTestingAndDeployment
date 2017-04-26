@@ -1,0 +1,258 @@
+<core:CityModel xmlns:core='http://www.opengis.net/citygml/2.0' xmlns:app='http://www.opengis.net/citygml/appearance/2.0' xmlns:bldg='http://www.opengis.net/citygml/building/2.0' xmlns:dem='http://www.opengis.net/citygml/relief/2.0' xmlns:frn='http://www.opengis.net/citygml/cityfurniture/2.0' xmlns:gen='http://www.opengis.net/citygml/generics/2.0' xmlns:gml='http://www.opengis.net/gml' xmlns:grp='http://www.opengis.net/citygml/cityobjectgroup/2.0' xmlns:luse='http://www.opengis.net/citygml/landuse/2.0' xmlns:tex='http://www.opengis.net/citygml/texturedsurface/2.0' xmlns:tran='http://www.opengis.net/citygml/transportation/2.0' xmlns:veg='http://www.opengis.net/citygml/vegetation/2.0' xmlns:wtr='http://www.opengis.net/citygml/waterbody/2.0' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.opengis.net/citygml/landuse/2.0 http://schemas.opengis.net/citygml/landuse/2.0/landUse.xsd http://www.opengis.net/citygml/cityfurniture/2.0 http://schemas.opengis.net/citygml/cityfurniture/2.0/cityFurniture.xsd http://www.opengis.net/citygml/appearance/2.0 http://schemas.opengis.net/citygml/appearance/2.0/appearance.xsd http://www.opengis.net/citygml/texturedsurface/2.0 http://schemas.opengis.net/citygml/texturedsurface/2.0/texturedSurface.xsd http://www.opengis.net/citygml/transportation/2.0 http://schemas.opengis.net/citygml/transportation/2.0/transportation.xsd http://www.opengis.net/citygml/waterbody/2.0 http://schemas.opengis.net/citygml/waterbody/2.0/waterBody.xsd http://www.opengis.net/citygml/building/2.0 http://schemas.opengis.net/citygml/building/2.0/building.xsd http://www.opengis.net/citygml/relief/2.0 http://schemas.opengis.net/citygml/relief/2.0/relief.xsd http://www.opengis.net/citygml/vegetation/2.0 http://schemas.opengis.net/citygml/vegetation/2.0/vegetation.xsd http://www.opengis.net/citygml/generics/2.0 http://schemas.opengis.net/citygml/generics/2.0/generics.xsd http://www.opengis.net/citygml/cityobjectgroup/2.0 http://schemas.opengis.net/citygml/cityobjectgroup/2.0/cityObjectGroup.xsd'>
+<core:cityObjectMember>
+<bldg:Building gml:id='Building_2440'>
+<gml:name>2440</gml:name>
+<bldg:lod0FootPrint>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:pos>582553.9633226403 4797271.740782599 6.390952650130609</gml:pos>
+<gml:pos>582560.8076940773 4797275.400155782 6.702327155562118</gml:pos>
+<gml:pos>582552.1821368205 4797291.697364217 6.67158519551158</gml:pos>
+<gml:pos>582545.2223181545 4797288.037991035 6.477117426667363</gml:pos>
+<gml:pos>582553.9633226403 4797271.740782599 6.390952650130609</gml:pos>
+<gml:pos>582553.9633226403 4797271.740782599 6.390952650130609</gml:pos>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod0FootPrint>
+<bldg:lod1Solid>
+<gml:Solid>
+<gml:exterior>
+<gml:CompositeSurface>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:pos>582553.9633226403 4797271.740782599 6.390952650130609</gml:pos>
+<gml:pos>582553.9633226403 4797271.740782599 29.54644157142856</gml:pos>
+<gml:pos>582545.2223181545 4797288.037991035 29.54644157142856</gml:pos>
+<gml:pos>582545.2223181545 4797288.037991035 6.477117426667363</gml:pos>
+<gml:pos>582553.9633226403 4797271.740782599 6.390952650130609</gml:pos>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:pos>582545.2223181545 4797288.037991035 6.477117426667363</gml:pos>
+<gml:pos>582545.2223181545 4797288.037991035 29.54644157142856</gml:pos>
+<gml:pos>582552.1821368205 4797291.697364217 29.54644157142856</gml:pos>
+<gml:pos>582552.1821368205 4797291.697364217 6.67158519551158</gml:pos>
+<gml:pos>582545.2223181545 4797288.037991035 6.477117426667363</gml:pos>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:pos>582552.1821368205 4797291.697364217 6.67158519551158</gml:pos>
+<gml:pos>582552.1821368205 4797291.697364217 29.54644157142856</gml:pos>
+<gml:pos>582560.8076940773 4797275.400155782 29.54644157142856</gml:pos>
+<gml:pos>582560.8076940773 4797275.400155782 6.702327155562118</gml:pos>
+<gml:pos>582552.1821368205 4797291.697364217 6.67158519551158</gml:pos>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:pos>582560.8076940773 4797275.400155782 6.702327155562118</gml:pos>
+<gml:pos>582560.8076940773 4797275.400155782 29.54644157142856</gml:pos>
+<gml:pos>582553.9633226403 4797271.740782599 29.54644157142856</gml:pos>
+<gml:pos>582553.9633226403 4797271.740782599 6.390952650130609</gml:pos>
+<gml:pos>582560.8076940773 4797275.400155782 6.702327155562118</gml:pos>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:pos>582553.9633226403 4797271.740782599 6.390952650130609</gml:pos>
+<gml:pos>582553.9633226403 4797271.740782599 29.54644157142856</gml:pos>
+<gml:pos>582553.9633226403 4797271.740782599 29.54644157142856</gml:pos>
+<gml:pos>582553.9633226403 4797271.740782599 6.390952650130609</gml:pos>
+<gml:pos>582553.9633226403 4797271.740782599 6.390952650130609</gml:pos>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:pos>582553.9633226403 4797271.740782599 29.54644157142856</gml:pos>
+<gml:pos>582560.8076940773 4797275.400155782 29.54644157142856</gml:pos>
+<gml:pos>582552.1821368205 4797291.697364217 29.54644157142856</gml:pos>
+<gml:pos>582545.2223181545 4797288.037991035 29.54644157142856</gml:pos>
+<gml:pos>582553.9633226403 4797271.740782599 29.54644157142856</gml:pos>
+<gml:pos>582553.9633226403 4797271.740782599 29.54644157142856</gml:pos>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:CompositeSurface>
+</gml:exterior>
+</gml:Solid>
+</bldg:lod1Solid>
+<bldg:consistsOfBuildingPart>
+<bldg:BuildingPart>
+<gml:name>2440_P</gml:name>
+<bldg:measuredHeight uom='urn:ogc:def:uom:UCUM::m'>22.99235253033267</bldg:measuredHeight>
+<bldg:lod2Solid>
+<gml:Solid>
+<gml:exterior>
+<gml:CompositeSurface>
+<gml:surfaceMember xlink:href='PolyID6197_3563_5935_1918'/>
+<gml:surfaceMember xlink:href='PolyID1637_9131_7482_7244'/>
+<gml:surfaceMember xlink:href='PolyID4194_7145_2378_1474'/>
+<gml:surfaceMember xlink:href='PolyID188_4229_9427_7979'/>
+<gml:surfaceMember xlink:href='PolyID4308_9100_2476_2636'/>
+</gml:CompositeSurface>
+</gml:exterior>
+</gml:Solid>
+</bldg:lod2Solid>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id='PolyID6197_3563_5935_1918'>
+<gml:exterior>
+<gml:LinearRing>
+<gml:pos>582553.9633226403 4797271.740782599 6.390952650130609</gml:pos>
+<gml:pos>582553.9633226403 4797271.740782599 29.54644157142856</gml:pos>
+<gml:pos>582545.2223181545 4797288.037991035 29.54644157142856</gml:pos>
+<gml:pos>582545.2223181545 4797288.037991035 6.477117426667363</gml:pos>
+<gml:pos>582553.9633226403 4797271.740782599 6.390952650130609</gml:pos>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id='PolyID1637_9131_7482_7244'>
+<gml:exterior>
+<gml:LinearRing>
+<gml:pos>582545.2223181545 4797288.037991035 6.477117426667363</gml:pos>
+<gml:pos>582545.2223181545 4797288.037991035 29.54644157142856</gml:pos>
+<gml:pos>582552.1821368205 4797291.697364217 29.54644157142856</gml:pos>
+<gml:pos>582552.1821368205 4797291.697364217 6.67158519551158</gml:pos>
+<gml:pos>582545.2223181545 4797288.037991035 6.477117426667363</gml:pos>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id='PolyID4194_7145_2378_1474'>
+<gml:exterior>
+<gml:LinearRing>
+<gml:pos>582552.1821368205 4797291.697364217 6.67158519551158</gml:pos>
+<gml:pos>582552.1821368205 4797291.697364217 29.54644157142856</gml:pos>
+<gml:pos>582560.8076940773 4797275.400155782 29.54644157142856</gml:pos>
+<gml:pos>582560.8076940773 4797275.400155782 6.702327155562118</gml:pos>
+<gml:pos>582552.1821368205 4797291.697364217 6.67158519551158</gml:pos>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id='PolyID188_4229_9427_7979'>
+<gml:exterior>
+<gml:LinearRing>
+<gml:pos>582560.8076940773 4797275.400155782 6.702327155562118</gml:pos>
+<gml:pos>582560.8076940773 4797275.400155782 29.54644157142856</gml:pos>
+<gml:pos>582553.9633226403 4797271.740782599 29.54644157142856</gml:pos>
+<gml:pos>582553.9633226403 4797271.740782599 6.390952650130609</gml:pos>
+<gml:pos>582560.8076940773 4797275.400155782 6.702327155562118</gml:pos>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id='PolyID7292_769_2277_4401'>
+<gml:exterior>
+<gml:LinearRing>
+<gml:pos>582553.9633226403 4797271.740782599 6.390952650130609</gml:pos>
+<gml:pos>582553.9633226403 4797271.740782599 29.54644157142856</gml:pos>
+<gml:pos>582553.9633226403 4797271.740782599 29.54644157142856</gml:pos>
+<gml:pos>582553.9633226403 4797271.740782599 6.390952650130609</gml:pos>
+<gml:pos>582553.9633226403 4797271.740782599 6.390952650130609</gml:pos>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:RoofSurface>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id='PolyID4308_9100_2476_2636'>
+<gml:exterior>
+<gml:LinearRing>
+<gml:pos>582553.9633226403 4797271.740782599 29.54644157142856</gml:pos>
+<gml:pos>582560.8076940773 4797275.400155782 29.54644157142856</gml:pos>
+<gml:pos>582552.1821368205 4797291.697364217 29.54644157142856</gml:pos>
+<gml:pos>582545.2223181545 4797288.037991035 29.54644157142856</gml:pos>
+<gml:pos>582553.9633226403 4797271.740782599 29.54644157142856</gml:pos>
+<gml:pos>582553.9633226403 4797271.740782599 29.54644157142856</gml:pos>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:RoofSurface>
+</bldg:boundedBy>
+</bldg:BuildingPart>
+</bldg:consistsOfBuildingPart>
+</bldg:Building>
+</core:cityObjectMember>
+</core:CityModel>
