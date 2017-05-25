@@ -327,7 +327,7 @@
 <core:cityObjectMember>
 <bldg:Building gml:id="Building_8297426">
 <gml:name>8297426</gml:name>
-<bldg:function>8000</bldg:function>
+<bldg:function>1000</bldg:function>
 <bldg:usage>1000</bldg:usage>
 <bldg:yearOfConstruction>1960</bldg:yearOfConstruction>
 <bldg:roofType>1030</bldg:roofType>
