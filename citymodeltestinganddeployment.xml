@@ -883,6 +883,14 @@
 <core:cityObjectMember>
 <bldg:Building gml:id="Building_8297428">
 <gml:name>8297428</gml:name>
+<bldg:function>1000</bldg:function>
+<bldg:usage>1000</bldg:usage>
+<bldg:yearOfConstruction>1920</bldg:yearOfConstruction>
+<bldg:roofType>1030</bldg:roofType>
+<bldg:measuredHeight uom="m">9.8</bldg:measuredHeight>
+<bldg:storeysAboveGround>3</bldg:storeysAboveGround>
+<bldg:storeysBelowGround>0</bldg:storeysBelowGround>
+<bldg:storeyHeightsAboveGround uom="m">3</bldg:storeyHeightsAboveGround>
 <bldg:lod0FootPrint>
 <gml:MultiSurface>
 <gml:surfaceMember>
