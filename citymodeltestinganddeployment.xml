@@ -325,6 +325,861 @@
 </grp:CityObjectGroup>
 </core:cityObjectMember>
 <core:cityObjectMember>
+<bldg:Building gml:id="Building_Building_1">
+<gml:name>Building_1</gml:name>
+<bldg:boundedBy>
+<bldg:WallSurface gml:id="94">
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="PolyID5463_7723_6340_4294">
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>671678.605 5701565.2627 30.1 671678.605 5701582.6457 30.1 671678.605 5701582.6457 33.0 671678.605 5701565.2627 33.0 </gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+<gml:interior>
+<gml:LinearRing>
+<gml:posList>671678.605 5701569.1902 31.851 671678.605 5701568.3712 31.851 671678.605 5701568.3712 32.61 671678.605 5701569.1902 32.61 </gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing>
+<gml:posList>671678.605 5701577.5782 30.2 671678.605 5701576.8282 30.2 671678.605 5701576.8282 32.4 671678.605 5701577.5782 32.4 </gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing>
+<gml:posList>671678.605 5701569.1902 30.2 671678.605 5701568.3712 30.2 671678.605 5701568.3712 30.959 671678.605 5701569.1902 30.959 </gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing>
+<gml:posList>671678.605 5701569.1902 31.0255 671678.605 5701568.3712 31.0255 671678.605 5701568.3712 31.7845 671678.605 5701569.1902 31.7845 </gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing>
+<gml:posList>671678.605 5701568.2712 30.2 671678.605 5701565.4712 30.2 671678.605 5701565.4712 32.61 671678.605 5701568.2712 32.61 </gml:posList>
+</gml:LinearRing>
+</gml:interior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+<bldg:opening>
+<bldg:Window gml:id="296">
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>671678.605 5701569.1902 31.851 671678.605 5701568.3712 31.851 671678.605 5701568.3712 32.61 671678.605 5701569.1902 32.61 </gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+<bldg:opening>
+<bldg:Window gml:id="269">
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>671678.605 5701577.5782 30.2 671678.605 5701576.8282 30.2 671678.605 5701576.8282 32.4 671678.605 5701577.5782 32.4 </gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+<bldg:opening>
+<bldg:Window gml:id="275">
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>671678.605 5701569.1902 30.2 671678.605 5701568.3712 30.2 671678.605 5701568.3712 30.959 671678.605 5701569.1902 30.959 </gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+<bldg:opening>
+<bldg:Window gml:id="294">
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>671678.605 5701569.1902 31.0255 671678.605 5701568.3712 31.0255 671678.605 5701568.3712 31.7845 671678.605 5701569.1902 31.7845 </gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+<bldg:opening>
+<bldg:Window gml:id="227">
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>671678.605 5701568.2712 30.2 671678.605 5701565.4712 30.2 671678.605 5701565.4712 32.61 671678.605 5701568.2712 32.61 </gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:lod3Solid>
+<gml:Solid>
+<gml:exterior>
+<gml:CompositeSurface>
+<gml:surfaceMember xlink:href="#PolyID5463_7723_6340_4294"/>
+<gml:surfaceMember xlink:href="#PolyID2638_5932_4641_5084"/>
+<gml:surfaceMember xlink:href="#PolyID8513_3534_4121_5611"/>
+<gml:surfaceMember xlink:href="#PolyID5860_6836_754_1259"/>
+<gml:surfaceMember xlink:href="#PolyID1087_743_6064_6684"/>
+<gml:surfaceMember xlink:href="#PolyID7872_3449_9788_7316"/>
+<gml:surfaceMember xlink:href="#PolyID6052_878_6944_1449"/>
+<gml:surfaceMember xlink:href="#PolyID5382_434_9218_6260"/>
+<gml:surfaceMember xlink:href="#PolyID2879_5317_2980_7290"/>
+<gml:surfaceMember xlink:href="#PolyID661_3887_2678_3753"/>
+<gml:surfaceMember xlink:href="#PolyID8405_3400_8895_1319"/>
+<gml:surfaceMember xlink:href="#PolyID871_3809_4919_9991"/>
+<gml:surfaceMember xlink:href="#PolyID6270_5244_4333_7115"/>
+<gml:surfaceMember xlink:href="#PolyID5713_2321_4815_4631"/>
+<gml:surfaceMember xlink:href="#PolyID7430_9461_143_5242"/>
+</gml:CompositeSurface>
+</gml:exterior>
+</gml:Solid>
+</bldg:lod3Solid>
+<bldg:boundedBy>
+<bldg:WallSurface gml:id="123">
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="PolyID2638_5932_4641_5084">
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>671678.605 5701582.6457 27.0 671686.988 5701582.6457 27.0 671686.988 5701582.6457 30.1 671678.605 5701582.6457 30.1 </gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+<gml:interior>
+<gml:LinearRing>
+<gml:posList>671686.7795 5701582.6457 27.1 671681.9445 5701582.6457 27.1 671681.9445 5701582.6457 29.52 671686.7795 5701582.6457 29.52 </gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing>
+<gml:posList>671681.8444 5701582.6457 27.0 671681.0314 5701582.6457 27.0 671681.0314 5701582.6457 29.42 671681.8444 5701582.6457 29.42 </gml:posList>
+</gml:LinearRing>
+</gml:interior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+<bldg:opening>
+<bldg:Window gml:id="268">
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>671686.7795 5701582.6457 27.1 671681.9445 5701582.6457 27.1 671681.9445 5701582.6457 29.52 671686.7795 5701582.6457 29.52 </gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+<bldg:opening>
+<bldg:Door gml:id="254">
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>671681.8444 5701582.6457 27.0 671681.0314 5701582.6457 27.0 671681.0314 5701582.6457 29.42 671681.8444 5701582.6457 29.42 </gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Door>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface gml:id="114">
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="PolyID8513_3534_4121_5611">
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>671686.988 5701565.2627 30.1 671678.605 5701565.2627 30.1 671678.605 5701565.2627 33.0 671686.988 5701565.2627 33.0 </gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+<gml:interior>
+<gml:LinearRing>
+<gml:posList>671685.9605 5701565.2627 31.851 671686.7795 5701565.2627 31.851 671686.7795 5701565.2627 32.61 671685.9605 5701565.2627 32.61 </gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing>
+<gml:posList>671685.9605 5701565.2627 30.2 671686.7795 5701565.2627 30.2 671686.7795 5701565.2627 30.959 671685.9605 5701565.2627 30.959 </gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing>
+<gml:posList>671685.9605 5701565.2627 31.0255 671686.7795 5701565.2627 31.0255 671686.7795 5701565.2627 31.7845 671685.9605 5701565.2627 31.7845 </gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing>
+<gml:posList>671683.0715 5701565.2627 30.2 671685.8715 5701565.2627 30.2 671685.8715 5701565.2627 32.61 671683.0715 5701565.2627 32.61 </gml:posList>
+</gml:LinearRing>
+</gml:interior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+<bldg:opening>
+<bldg:Window gml:id="297">
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>671685.9605 5701565.2627 31.851 671686.7795 5701565.2627 31.851 671686.7795 5701565.2627 32.61 671685.9605 5701565.2627 32.61 </gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+<bldg:opening>
+<bldg:Window gml:id="228">
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>671685.9605 5701565.2627 30.2 671686.7795 5701565.2627 30.2 671686.7795 5701565.2627 30.959 671685.9605 5701565.2627 30.959 </gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+<bldg:opening>
+<bldg:Window gml:id="299">
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>671685.9605 5701565.2627 31.0255 671686.7795 5701565.2627 31.0255 671686.7795 5701565.2627 31.7845 671685.9605 5701565.2627 31.7845 </gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+<bldg:opening>
+<bldg:Window gml:id="273">
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>671683.0715 5701565.2627 30.2 671685.8715 5701565.2627 30.2 671685.8715 5701565.2627 32.61 671683.0715 5701565.2627 32.61 </gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface gml:id="133">
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="PolyID5860_6836_754_1259">
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>671686.988 5701565.2627 27.0 671678.605 5701565.2627 27.0 671678.605 5701565.2627 30.1 671686.988 5701565.2627 30.1 </gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+<gml:interior>
+<gml:LinearRing>
+<gml:posList>671678.8135 5701565.2627 27.1 671683.6485 5701565.2627 27.1 671683.6485 5701565.2627 29.52 671678.8135 5701565.2627 29.52 </gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing>
+<gml:posList>671683.7485 5701565.2627 27.0 671684.5615 5701565.2627 27.0 671684.5615 5701565.2627 29.42 671683.7485 5701565.2627 29.42 </gml:posList>
+</gml:LinearRing>
+</gml:interior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+<bldg:opening>
+<bldg:Window gml:id="274">
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>671678.8135 5701565.2627 27.1 671683.6485 5701565.2627 27.1 671683.6485 5701565.2627 29.52 671678.8135 5701565.2627 29.52 </gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+<bldg:opening>
+<bldg:Door gml:id="251">
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>671683.7485 5701565.2627 27.0 671684.5615 5701565.2627 27.0 671684.5615 5701565.2627 29.42 671683.7485 5701565.2627 29.42 </gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Door>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface gml:id="104">
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="PolyID1087_743_6064_6684">
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>671686.988 5701582.6457 27.0 671686.988 5701565.2627 27.0 671686.988 5701565.2627 30.1 671686.988 5701582.6457 30.1 </gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+<gml:interior>
+<gml:LinearRing>
+<gml:posList>671686.988 5701576.9092 27.1 671686.988 5701577.6592 27.1 671686.988 5701577.6592 29.3 671686.988 5701576.9092 29.3 </gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing>
+<gml:posList>671686.988 5701566.0512 27.0 671686.988 5701567.3012 27.0 671686.988 5701567.3012 29.01 671686.988 5701566.0512 29.01 </gml:posList>
+</gml:LinearRing>
+</gml:interior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+<bldg:opening>
+<bldg:Window gml:id="231">
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>671686.988 5701576.9092 27.1 671686.988 5701577.6592 27.1 671686.988 5701577.6592 29.3 671686.988 5701576.9092 29.3 </gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+<bldg:opening>
+<bldg:Door gml:id="252">
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>671686.988 5701566.0512 27.0 671686.988 5701567.3012 27.0 671686.988 5701567.3012 29.01 671686.988 5701566.0512 29.01 </gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Door>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface gml:id="101">
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="PolyID7872_3449_9788_7316">
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>671678.605 5701565.2627 27.0 671678.605 5701582.6457 27.0 671678.605 5701582.6457 30.1 671678.605 5701565.2627 30.1 </gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+<gml:interior>
+<gml:LinearRing>
+<gml:posList>671678.605 5701570.9992 27.1 671678.605 5701570.2492 27.1 671678.605 5701570.2492 29.3 671678.605 5701570.9992 29.3 </gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing>
+<gml:posList>671678.605 5701581.8572 27.0 671678.605 5701580.6072 27.0 671678.605 5701580.6072 29.01 671678.605 5701581.8572 29.01 </gml:posList>
+</gml:LinearRing>
+</gml:interior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+<bldg:opening>
+<bldg:Window gml:id="230">
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>671678.605 5701570.9992 27.1 671678.605 5701570.2492 27.1 671678.605 5701570.2492 29.3 671678.605 5701570.9992 29.3 </gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+<bldg:opening>
+<bldg:Door gml:id="253">
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>671678.605 5701581.8572 27.0 671678.605 5701580.6072 27.0 671678.605 5701580.6072 29.01 671678.605 5701581.8572 29.01 </gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Door>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface gml:id="215">
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="PolyID6052_878_6944_1449">
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>671686.988 5701582.6457 33.0 671686.988 5701565.2627 33.0 671686.988 5701565.2627 33.609 671686.988 5701582.6457 33.609 </gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface gml:id="221">
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="PolyID5382_434_9218_6260">
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>671678.605 5701565.2627 33.0 671678.605 5701582.6457 33.0 671678.605 5701582.6457 33.609 671678.605 5701565.2627 33.609 </gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface gml:id="218">
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="PolyID2879_5317_2980_7290">
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>671686.988 5701565.2627 33.0 671678.605 5701565.2627 33.0 671678.605 5701565.2627 33.609 671686.988 5701565.2627 33.609 </gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface gml:id="217">
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="PolyID661_3887_2678_3753">
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>671678.605 5701582.6457 33.0 671686.988 5701582.6457 33.0 671686.988 5701582.6457 33.609 671678.605 5701582.6457 33.609 </gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface gml:id="99">
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="PolyID8405_3400_8895_1319">
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>671686.988 5701582.6457 30.1 671686.988 5701565.2627 30.1 671686.988 5701565.2627 33.0 671686.988 5701582.6457 33.0 </gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+<gml:interior>
+<gml:LinearRing>
+<gml:posList>671686.988 5701579.6372 30.2 671686.988 5701582.4372 30.2 671686.988 5701582.4372 32.61 671686.988 5701579.6372 32.61 </gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing>
+<gml:posList>671686.988 5701578.7182 31.851 671686.988 5701579.5372 31.851 671686.988 5701579.5372 32.61 671686.988 5701578.7182 32.61 </gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing>
+<gml:posList>671686.988 5701578.7182 30.2 671686.988 5701579.5372 30.2 671686.988 5701579.5372 30.959 671686.988 5701578.7182 30.959 </gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing>
+<gml:posList>671686.988 5701578.7182 31.0255 671686.988 5701579.5372 31.0255 671686.988 5701579.5372 31.7845 671686.988 5701578.7182 31.7845 </gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing>
+<gml:posList>671686.988 5701570.3302 30.2 671686.988 5701571.0802 30.2 671686.988 5701571.0802 32.4 671686.988 5701570.3302 32.4 </gml:posList>
+</gml:LinearRing>
+</gml:interior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+<bldg:opening>
+<bldg:Window gml:id="226">
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>671686.988 5701579.6372 30.2 671686.988 5701582.4372 30.2 671686.988 5701582.4372 32.61 671686.988 5701579.6372 32.61 </gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+<bldg:opening>
+<bldg:Window gml:id="291">
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>671686.988 5701578.7182 31.851 671686.988 5701579.5372 31.851 671686.988 5701579.5372 32.61 671686.988 5701578.7182 32.61 </gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+<bldg:opening>
+<bldg:Window gml:id="271">
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>671686.988 5701578.7182 30.2 671686.988 5701579.5372 30.2 671686.988 5701579.5372 30.959 671686.988 5701578.7182 30.959 </gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+<bldg:opening>
+<bldg:Window gml:id="295">
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>671686.988 5701578.7182 31.0255 671686.988 5701579.5372 31.0255 671686.988 5701579.5372 31.7845 671686.988 5701578.7182 31.7845 </gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+<bldg:opening>
+<bldg:Window gml:id="270">
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>671686.988 5701570.3302 30.2 671686.988 5701571.0802 30.2 671686.988 5701571.0802 32.4 671686.988 5701570.3302 32.4 </gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface gml:id="105">
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="PolyID871_3809_4919_9991">
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>671678.605 5701582.6457 30.1 671686.988 5701582.6457 30.1 671686.988 5701582.6457 33.0 671678.605 5701582.6457 33.0 </gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+<gml:interior>
+<gml:LinearRing>
+<gml:posList>671682.5215 5701582.6457 30.2 671679.7215 5701582.6457 30.2 671679.7215 5701582.6457 32.61 671682.5215 5701582.6457 32.61 </gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing>
+<gml:posList>671679.6325 5701582.6457 31.0255 671678.8135 5701582.6457 31.0255 671678.8135 5701582.6457 31.7845 671679.6325 5701582.6457 31.7845 </gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing>
+<gml:posList>671679.6325 5701582.6457 31.851 671678.8135 5701582.6457 31.851 671678.8135 5701582.6457 32.61 671679.6325 5701582.6457 32.61 </gml:posList>
+</gml:LinearRing>
+</gml:interior>
+<gml:interior>
+<gml:LinearRing>
+<gml:posList>671679.6325 5701582.6457 30.2 671678.8135 5701582.6457 30.2 671678.8135 5701582.6457 30.959 671679.6325 5701582.6457 30.959 </gml:posList>
+</gml:LinearRing>
+</gml:interior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+<bldg:opening>
+<bldg:Window gml:id="272">
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>671682.5215 5701582.6457 30.2 671679.7215 5701582.6457 30.2 671679.7215 5701582.6457 32.61 671682.5215 5701582.6457 32.61 </gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+<bldg:opening>
+<bldg:Window gml:id="293">
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>671679.6325 5701582.6457 31.0255 671678.8135 5701582.6457 31.0255 671678.8135 5701582.6457 31.7845 671679.6325 5701582.6457 31.7845 </gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+<bldg:opening>
+<bldg:Window gml:id="298">
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>671679.6325 5701582.6457 31.851 671678.8135 5701582.6457 31.851 671678.8135 5701582.6457 32.61 671679.6325 5701582.6457 32.61 </gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+<bldg:opening>
+<bldg:Window gml:id="229">
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>671679.6325 5701582.6457 30.2 671678.8135 5701582.6457 30.2 671678.8135 5701582.6457 30.959 671679.6325 5701582.6457 30.959 </gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:Window>
+</bldg:opening>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:GroundSurface gml:id="111">
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="PolyID6270_5244_4333_7115">
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>671686.7795 5701582.4372 26.873 671686.7795 5701575.3292 26.873 671682.5215 5701575.3292 26.873 671682.5215 5701573.1292 26.873 671678.8135 5701573.1292 26.873 671678.8135 5701582.4372 26.873 </gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:GroundSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:GroundSurface gml:id="112">
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="PolyID5713_2321_4815_4631">
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>671686.7795 5701574.7792 26.873 671686.7795 5701565.4712 26.873 671678.8135 5701565.4712 26.873 671678.8135 5701572.5792 26.873 671683.014 5701572.5792 26.873 671683.014 5701574.7792 26.873 </gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:GroundSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:RoofSurface gml:id="4229">
+<bldg:lod3MultiSurface>
+<gml:MultiSurface>
+<gml:surfaceMember>
+<gml:Polygon gml:id="PolyID7430_9461_143_5242">
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>671678.605 5701565.2627 33.0 671678.605 5701582.6457 33.0 671686.988 5701582.6457 33.0 671686.988 5701565.2627 33.0 </gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod3MultiSurface>
+</bldg:RoofSurface>
+</bldg:boundedBy>
+</bldg:Building>
+</core:cityObjectMember>
+<core:cityObjectMember>
 <bldg:Building gml:id="Building_8297426">
 <gml:name>8297426</gml:name>
 <bldg:function>1000</bldg:function>
@@ -480,7 +1335,6 @@
 <gml:LinearRing>
 <gml:pos>582184.7049188918 4797204.473363506 6.950440563269774</gml:pos>
 <gml:pos>582184.7049188918 4797204.473363506 24.45758452142858</gml:pos>
-<gml:pos>582181.177 4797204.022 24.45758452142858</gml:pos>
 <gml:pos>582181.177 4797204.022 24.45758452142858</gml:pos>
 <gml:pos>582181.177 4797204.022 6.9210410000012486</gml:pos>
 <gml:pos>582184.7049188918 4797204.473363506 6.950440563269774</gml:pos>
@@ -884,6 +1738,14 @@
 <core:cityObjectMember>
 <bldg:Building gml:id="Building_8297428">
 <gml:name>8297428</gml:name>
+<bldg:function>1000</bldg:function>
+<bldg:usage>1000</bldg:usage>
+<bldg:yearOfConstruction>1920</bldg:yearOfConstruction>
+<bldg:roofType>1030</bldg:roofType>
+<bldg:measuredHeight uom="m">9.8</bldg:measuredHeight>
+<bldg:storeysAboveGround>3</bldg:storeysAboveGround>
+<bldg:storeysBelowGround>0</bldg:storeysBelowGround>
+<bldg:storeyHeightsAboveGround uom="m">3</bldg:storeyHeightsAboveGround>
 <bldg:lod0FootPrint>
 <gml:MultiSurface>
 <gml:surfaceMember>
