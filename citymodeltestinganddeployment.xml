@@ -327,7 +327,6 @@
 <core:cityObjectMember>
 <bldg:Building gml:id="Building_Building_1">
 <gml:name>Building_1</gml:name>
-<bldg:boundedBy>
 <bldg:WallSurface gml:id="WallSurface_94">
 <bldg:lod3MultiSurface>
 <gml:MultiSurface>
@@ -453,7 +452,6 @@
 </bldg:Window>
 </bldg:opening>
 </bldg:WallSurface>
-</bldg:boundedBy>
 <bldg:lod3Solid>
 <gml:Solid>
 <gml:exterior>
