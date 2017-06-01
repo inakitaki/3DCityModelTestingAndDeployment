@@ -542,7 +542,6 @@
 </core:cityObjectMember>
 <core:cityObjectMember>
 <bldg:Building gml:id='Building_8297427'>
-<gml:name>8297427</gml:name>
 <bldg:function>1000</bldg:function>
 <bldg:usage>1000</bldg:usage>
 <bldg:yearOfConstruction>1930</bldg:yearOfConstruction>
@@ -551,6 +550,7 @@
 <bldg:storeysAboveGround>4</bldg:storeysAboveGround>
 <bldg:storeysBelowGround>0</bldg:storeysBelowGround>
 <bldg:storeyHeightsAboveGround uom='m'>3</bldg:storeyHeightsAboveGround>
+<gml:name>8297427</gml:name>
 <bldg:consistsOfBuildingPart>
 <bldg:BuildingPart>
 <gml:name>8297427_P</gml:name>
@@ -730,6 +730,14 @@
 <core:cityObjectMember>
 <bldg:Building gml:id='Building_8297428'>
 <gml:name>8297428</gml:name>
+<bldg:function>1000</bldg:function>
+<bldg:usage>1000</bldg:usage>
+<bldg:yearOfConstruction>1980</bldg:yearOfConstruction>
+<bldg:roofType>1030</bldg:roofType>
+<bldg:measuredHeight uom='m'>10.3</bldg:measuredHeight>
+<bldg:storeysAboveGround>3</bldg:storeysAboveGround>
+<bldg:storeysBelowGround>0</bldg:storeysBelowGround>
+<bldg:storeyHeightsAboveGround uom='m'>3</bldg:storeyHeightsAboveGround>
 <bldg:consistsOfBuildingPart>
 <bldg:BuildingPart>
 <gml:name>8297428_P</gml:name>
