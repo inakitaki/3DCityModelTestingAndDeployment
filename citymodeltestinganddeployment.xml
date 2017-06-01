@@ -542,6 +542,7 @@
 </core:cityObjectMember>
 <core:cityObjectMember>
 <bldg:Building gml:id='Building_8297427'>
+<gml:name>8297427</gml:name>
 <bldg:function>1000</bldg:function>
 <bldg:usage>1000</bldg:usage>
 <bldg:yearOfConstruction>1930</bldg:yearOfConstruction>
@@ -550,7 +551,6 @@
 <bldg:storeysAboveGround>4</bldg:storeysAboveGround>
 <bldg:storeysBelowGround>0</bldg:storeysBelowGround>
 <bldg:storeyHeightsAboveGround uom='m'>3</bldg:storeyHeightsAboveGround>
-<gml:name>8297427</gml:name>
 <bldg:consistsOfBuildingPart>
 <bldg:BuildingPart>
 <gml:name>8297427_P</gml:name>
